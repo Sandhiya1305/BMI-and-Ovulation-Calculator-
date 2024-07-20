@@ -1,4 +1,4 @@
-## BMI and Ovulation Calculator
+## BMI AND OVULATION CALCULATOR
 ## BMI Calculator
 
 Enter your height and weight in the provided input fields.
